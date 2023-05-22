@@ -1,0 +1,7 @@
+src/algorithm/__pycache__/bm.cpython-311.pyc
+src/algorithm/__pycache__/bruteforce.cpython-311.pyc
+src/algorithm/__pycache__/kmp.cpython-311.pyc
+src/algorithm/__pycache__/scrabble.cpython-311.pyc
+src/db/dictionary.txt
+src/db/point.txt
+src/db/__pycache__/txtToArray.cpython-311.pyc
